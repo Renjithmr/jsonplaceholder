@@ -1,11 +1,14 @@
+
 {
-  "posts": [
+  "status": 3,
+  "responseMessages": null,
+  "data": [
     {
-      "id": 1,
-      "title": "hello"
+      "userId": 6,
+      "target": 100000,
+      "sales": 4981827.13,
+      "delivery": 3696415.86,
+      "remaining": 1285411.27
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
